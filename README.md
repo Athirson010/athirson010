@@ -4,7 +4,8 @@
    <br> 
   <p>Analista e desenvolvedor Zuri 🚀</p>
   <b>🛠 Ferramentas && Tecnologias </b>
-  <img style= "width: 50px!important;" src="java.png"/>
+  <br>
+  <img src="java.png">
 
 
   
