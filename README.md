@@ -3,9 +3,10 @@
   <p>Meu nome é Athirson, atualmente em processo de graduação na instituição BandTec no curso de Analise e desenvolvimento de sistemas.</p>
    <br> 
   <p>Analista e desenvolvedor Zuri 🚀</p>
-  <b>🛠 Ferramentas && Tecnologias </b>
+  <!-- <b>🛠 Ferramentas && Tecnologias </b>
   <br>
-  <img src="java.png">
+--!>
+
 
 
   
