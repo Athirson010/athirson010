@@ -17,6 +17,7 @@ com o propósito de ajudar quem está estudando alguma tecnologia ou uma impleme
   
 <h4>
   ⚙️  GitHub Analytics:
+  
  <div align="center">
    <img height="150em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirson010&layout=compact&langs_count=7&theme=dracula">
