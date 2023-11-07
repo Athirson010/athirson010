@@ -7,7 +7,7 @@
     <a  href="https://www.instagram.com/_thirsu/">
   <img src="https://img.shields.io/badge/Athirson%20Oliveira-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white">
     </a>
-<h3>Me chamo Athirson👨🏿‍💻, sou Engenheiro de Software.</h3>
+<h3>Me chamo Athirson👨🏿‍💻, sou Desenvolvedor / Engenheiro de Software.</h3>
 🎓 profissional tecnólogo no curso de análise e desenvolvimento de sistemas na instituição São Paulo Tech School.
   
 💡 Gosto de explorar novas tecnologias e desenvolver soluções de software.
