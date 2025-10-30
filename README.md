@@ -9,7 +9,7 @@
 
 <h3>Me chamo Athirson👨🏿‍💻, sou Desenvolvedor / Engenheiro de Software.</h3>
 
-💼 **Software Engineer** no <img src="https://img.shields.io/badge/Itaú-EC7000?style=flat-square&logo=itau&logoColor=white" alt="Itaú">
+💼 **Software Engineer**  no <img src="https://img.shields.io/badge/Itaú-EC7000?style=flat-square&logo=itau&logoColor=white" alt="Itaú">
 
 🎓 Profissional tecnólogo no curso de análise e desenvolvimento de sistemas na instituição São Paulo Tech School.
   
